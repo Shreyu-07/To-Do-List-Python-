@@ -80,7 +80,3 @@ Some possible improvements:
 * GUI version using Tkinter or PyQt
 
 ---
-=---
-
-👉 Do you want me to also **add badges (like Python version, license, stars, forks)** at the top of the README to make it look more professional?
-```
